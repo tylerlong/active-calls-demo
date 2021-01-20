@@ -20,9 +20,13 @@ const rc = new RingCentral({
       .account()
       .extension()
       .activeCalls()
-      .get({view: 'Detailed', direction: ['Inbound']});
+      .get({
+        view: 'Detailed',
+        // direction: ['Inbound'],
+      });
     if (activeCalls.records!.length > 0) {
-      console.log(JSON.stringify(activeCalls.records![0], null, 2));
+      // console.log(JSON.stringify(activeCalls.records![0], null, 2));
+      console.log(JSON.stringify(activeCalls, null, 2));
     } else {
       console.log('No records');
     }
