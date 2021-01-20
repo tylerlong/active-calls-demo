@@ -13,10 +13,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIef14l8Nt_1zUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIef14l8Nt_1zUA?view=Detailed",
       "id": "LIef14l8Nt_1zUA",
       "sessionId": "538332041016",
       "startTime": "2021-01-19T23:58:57.000Z",
@@ -26,17 +26,17 @@
       "result": "In Progress",
       "to": {
         "name": "Tyler Liu",
-        "phoneNumber": "+16502886382",
+        "phoneNumber": "+16502888888",
         "location": "San Mateo, CA"
       },
       "from": {
         "name": "WIRELESS CALLER",
-        "phoneNumber": "+16504306662",
+        "phoneNumber": "+16504366666",
         "location": "San Mateo, CA"
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "telephonySessionId": "s-8f8125f1aeb944f486531c351a2f520e",
       "legs": [
@@ -48,17 +48,17 @@
           "result": "In Progress",
           "to": {
             "name": "Tyler Liu",
-            "phoneNumber": "+16502886382",
+            "phoneNumber": "+16502888888",
             "location": "San Mateo, CA"
           },
           "from": {
             "name": "WIRELESS CALLER",
-            "phoneNumber": "+16504306662",
+            "phoneNumber": "+16504366666",
             "location": "San Mateo, CA"
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "telephonySessionId": "s-8f8125f1aeb944f486531c351a2f520e",
           "legType": "Accept",
@@ -75,10 +75,10 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
@@ -89,10 +89,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIef14l8Nt_1zUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIef14l8Nt_1zUA?view=Detailed",
       "id": "LIef14l8Nt_1zUA",
       "sessionId": "538332041016",
       "startTime": "2021-01-19T23:58:57.000Z",
@@ -102,17 +102,17 @@
       "result": "In Progress",
       "to": {
         "name": "Tyler Liu",
-        "phoneNumber": "+16502886382",
+        "phoneNumber": "+16502888888",
         "location": "San Mateo, CA"
       },
       "from": {
         "name": "WIRELESS CALLER",
-        "phoneNumber": "+16504306662",
+        "phoneNumber": "+16504366666",
         "location": "San Mateo, CA"
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "telephonySessionId": "s-8f8125f1aeb944f486531c351a2f520e",
       "legs": [
@@ -124,17 +124,17 @@
           "result": "In Progress",
           "to": {
             "name": "Tyler Liu",
-            "phoneNumber": "+16502886382",
+            "phoneNumber": "+16502888888",
             "location": "San Mateo, CA"
           },
           "from": {
             "name": "WIRELESS CALLER",
-            "phoneNumber": "+16504306662",
+            "phoneNumber": "+16504366666",
             "location": "San Mateo, CA"
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "telephonySessionId": "s-8f8125f1aeb944f486531c351a2f520e",
           "legType": "Accept",
@@ -155,13 +155,13 @@
             "name": "Tyler Liu",
             "extensionNumber": "11115",
             "device": {
-              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/device/803750084020",
+              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/device/803750084020",
               "id": "803750084020"
             }
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -180,10 +180,10 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
@@ -194,10 +194,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIef14l8Nt_1zUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIef14l8Nt_1zUA?view=Detailed",
       "id": "LIef14l8Nt_1zUA",
       "sessionId": "538332041016",
       "startTime": "2021-01-19T23:58:57.000Z",
@@ -208,17 +208,17 @@
       "result": "Accepted",
       "to": {
         "name": "Tyler Liu",
-        "phoneNumber": "+16502886382",
+        "phoneNumber": "+16502888888",
         "location": "San Mateo, CA"
       },
       "from": {
         "name": "WIRELESS CALLER",
-        "phoneNumber": "+16504306662",
+        "phoneNumber": "+16504366666",
         "location": "San Mateo, CA"
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "reason": "Accepted",
       "reasonDescription": "The call connected to and was accepted by this number.",
@@ -233,17 +233,17 @@
           "result": "Accepted",
           "to": {
             "name": "Tyler Liu",
-            "phoneNumber": "+16502886382",
+            "phoneNumber": "+16502888888",
             "location": "San Mateo, CA"
           },
           "from": {
             "name": "WIRELESS CALLER",
-            "phoneNumber": "+16504306662",
+            "phoneNumber": "+16504366666",
             "location": "San Mateo, CA"
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -267,13 +267,13 @@
             "name": "Tyler Liu",
             "extensionNumber": "11115",
             "device": {
-              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/device/803750084020",
+              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/device/803750084020",
               "id": "803750084020"
             }
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -292,10 +292,10 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
@@ -309,10 +309,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIfMpYdXOsxPzUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIfMpYdXOsxPzUA?view=Detailed",
       "id": "LIfMpYdXOsxPzUA",
       "sessionId": "538340306016",
       "startTime": "2021-01-20T00:15:02.000Z",
@@ -330,8 +330,8 @@
         "extensionNumber": "11115"
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "telephonySessionId": "s-31f9c0cf910a41f98c4c5cb29b72377d",
       "legs": [
@@ -351,8 +351,8 @@
             "extensionNumber": "11115"
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "telephonySessionId": "s-31f9c0cf910a41f98c4c5cb29b72377d",
           "legType": "PstnToSip",
@@ -369,10 +369,10 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
@@ -383,10 +383,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIfMpYdXOsxPzUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIfMpYdXOsxPzUA?view=Detailed",
       "id": "LIfMpYdXOsxPzUA",
       "sessionId": "538340306016",
       "startTime": "2021-01-20T00:15:02.000Z",
@@ -403,13 +403,13 @@
         "name": "Tyler Liu",
         "extensionNumber": "11115",
         "device": {
-          "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/device/803750084020",
+          "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/device/803750084020",
           "id": "803750084020"
         }
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "reason": "Accepted",
       "reasonDescription": "The call connected to and was accepted by this number.",
@@ -430,13 +430,13 @@
             "name": "Tyler Liu",
             "extensionNumber": "11115",
             "device": {
-              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/device/803750084020",
+              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/device/803750084020",
               "id": "803750084020"
             }
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -455,10 +455,10 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
@@ -469,10 +469,10 @@
 
 ```json
 {
-  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100",
+  "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100",
   "records": [
     {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/call-log/LIfMpYdXOsxPzUA?view=Detailed",
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/call-log/LIfMpYdXOsxPzUA?view=Detailed",
       "id": "LIfMpYdXOsxPzUA",
       "sessionId": "538340306016",
       "startTime": "2021-01-20T00:15:02.000Z",
@@ -488,12 +488,12 @@
       },
       "from": {
         "name": "Tyler's call queue - WIRELESS CALLER",
-        "phoneNumber": "+16504306662",
+        "phoneNumber": "+16504366666",
         "location": "San Mateo, CA"
       },
       "extension": {
-        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-        "id": 62264425016
+        "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+        "id": 234567
       },
       "reason": "Accepted",
       "reasonDescription": "The call connected to and was accepted by this number.",
@@ -513,12 +513,12 @@
           },
           "from": {
             "name": "Tyler's call queue - WIRELESS CALLER",
-            "phoneNumber": "+16504306662",
+            "phoneNumber": "+16504366666",
             "location": "San Mateo, CA"
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -542,13 +542,13 @@
             "name": "Tyler Liu",
             "extensionNumber": "11115",
             "device": {
-              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/device/803750084020",
+              "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/device/803750084020",
               "id": "803750084020"
             }
           },
           "extension": {
-            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016",
-            "id": 62264425016
+            "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567",
+            "id": 234567
           },
           "reason": "Accepted",
           "reasonDescription": "The call connected to and was accepted by this number.",
@@ -567,11 +567,18 @@
   },
   "navigation": {
     "firstPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     },
     "lastPage": {
-      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/809646016/extension/62264425016/active-calls?view=Detailed&page=1&perPage=100"
+      "uri": "https://platform.ringcentral.com/restapi/v1.0/account/123456/extension/234567/active-calls?view=Detailed&page=1&perPage=100"
     }
   }
 }
 ```
+
+
+## Common pattern
+
+### How to tell the call has been answered?
+
+As soon as you see `"reason": "Accepted"`, you can assume that call has been answered.
